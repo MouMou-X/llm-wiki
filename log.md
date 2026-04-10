@@ -10,6 +10,25 @@ type: log
 
 ---
 
+## [2026-04-11] ingest | pandas 官方文档（入门指南 + 文本数据处理）
+
+录入两篇 pandas 3.0.2 官方文档的中文翻译。
+
+来源位置：
+- `raw/articles/入门指南 — pandas 3.0.2 文档.md`
+- `raw/articles/如何操作文本数据 — pandas 3.0.2 文档.md`
+
+新建页面：
+- [[wiki/summaries/pandas-getting-started]] — 入门指南摘要
+- [[wiki/summaries/pandas-text-data]] — 文本数据处理摘要
+- [[wiki/entities/pandas]] — pandas 实体页
+- [[wiki/concepts/dataframe]] — DataFrame 概念页
+
+更新页面：
+- [[index]] — 添加新页面条目
+
+---
+
 ## [2026-04-10] ingest | LLM Wiki 模式 - Andrej Karpathy
 
 首次来源录入：Andrej Karpathy 的 LLM Wiki gist。
