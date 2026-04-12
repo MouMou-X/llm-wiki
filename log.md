@@ -10,6 +10,25 @@ type: log
 
 ---
 
+## [2026-04-12] ingest | Karpathy AutoResearch 使用指南（DataCamp）
+
+录入 Bex Tuychiev 撰写的 AutoResearch 长文，覆盖三文件架构、棘轮循环、实验结果与局限。
+
+来源位置：`raw/articles/A Guide to Andrej Karpathy's AutoResearch Automating ML with AI Agents.md`
+
+新建页面：
+- [[wiki/summaries/autoresearch-guide]] — 来源摘要
+- [[wiki/entities/autoresearch]] — AutoResearch 工具实体页
+- [[wiki/concepts/agentic-engineering]] — 代理式工程概念页
+- [[wiki/concepts/ratchet-loop]] — 棘轮循环概念页
+- [[wiki/concepts/three-file-architecture]] — 三文件架构概念页
+
+更新页面：
+- [[andrej-karpathy]] — 补充 AutoResearch、nanochat、"代理式工程"等内容
+- [[index]] — 添加新页面条目
+
+---
+
 ## [2026-04-11] ingest | pandas 官方文档（入门指南 + 文本数据处理）
 
 录入两篇 pandas 3.0.2 官方文档的中文翻译。
